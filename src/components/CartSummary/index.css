@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.summary-card {
+  min-width: 300px;
+  align-self: flex-end;
+  padding: 16px;
+}
+
+.order-h1 {
+  color: #616e7c;
+  font-size: 26px;
+  font-weight: 550;
+  margin: 0px;
+}
+
+.rs-text {
+  color: #171f46;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.item-p {
+  color: #616e7c;
+  font-size: 18px;
+  margin: 16px 0px;
+  font-weight: 500;
+}
+
+.order-btn {
+  border: none;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 10px 20px;
+  width: 100%;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #0b69ff;
+}
